@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello and welcome to my profile!
+
+I am a mechanical engineering student with interest in programming, specially artificial intelligence and robotics.
 
 <!--
 **Marco-ML/MARCO-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
