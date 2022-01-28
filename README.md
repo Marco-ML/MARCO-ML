@@ -1,6 +1,6 @@
 Hello and welcome to my profile!
 
-I am a mechanical engineering student with interest in programming, specially artificial intelligence and robotics.
+I am a mechanical engineering student with interest in Data science, Machine Learning, Deep Learning and Programming.
 
 <!--
 **Marco-ML/MARCO-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
