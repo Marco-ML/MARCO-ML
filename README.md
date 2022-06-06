@@ -1,6 +1,6 @@
 Hello and welcome to my profile!
 
-I am a electrical engineering student with interest in Data Science, Machine Learning, Deep Learning and Programming.
+I am an electrical engineering student with interest in Data Science, Machine Learning, Deep Learning and Programming.
 
 <!--
 **Marco-ML/MARCO-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
